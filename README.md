@@ -1,11 +1,11 @@
 # Fashion_Recognition_and_Recommendation_System_Project
 <img src="https://github.com/cpuikin/Fashion_Recognition_and_Recommendation_System_Project/blob/main/image/SpotDbuy-logo.png" width="1000" height="300" />
 
-This is a Object detection and Recommendation System project. With 'SpotDbuy', we can be a fresh pair eyes to serch out the sport swears eith the best price in just a click, and also bring you the perfect recommendations. 'SpotDbuy' is the place you can enjoy your shopping journey with remarkable experiences. Let's show what I done.
+This is a Object detection and Recommendation System project. With 'SpotDbuy', we can be a fresh pair eyes to search out the sport swears with the best price in just a click, and also bring you the perfect recommendations. 'SpotDbuy' is the place you can enjoy your shopping journey with remarkable experiences. 
 
 # Aims:
 With the use of techologies
-  - saving time on searching
+  - Saving time on searching
   - Bringing a better online shopping experiences 
 
 # Business Values:
